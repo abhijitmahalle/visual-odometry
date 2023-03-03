@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # Visual Odometry using Monocular Camera
 
 The objective of this project is to utilize visual odometry on a sequence of video frames captured by a monocular camera to estimate the trajectory of a 
