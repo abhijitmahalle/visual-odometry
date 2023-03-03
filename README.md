@@ -1,4 +1,4 @@
-# Visual Odemetry using Monocular Camera
+# Visual Odometry using Monocular Camera
 
 The objective of this project is to utilize visual odometry on a sequence of video frames captured by a monocular camera to estimate the trajectory of a 
 vehicle. The KITTI dataset is employed for this purpose, which comprises two monocular videos, an intrinsic camera matrix (K), and the vehicle's ground 
